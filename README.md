@@ -12,5 +12,7 @@ the database.
 --> Student Management System Project In Java Features :
 
   1> Add Student Information – In this feature the user can add the information of the students.
+  
   2> Delete Student Information – In this feature the user can delete any information of the students inside the database.
+  
   3> Generate Student Information – In this feature the user can generate the record of the students inside the database.
