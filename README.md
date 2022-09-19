@@ -9,7 +9,7 @@ A Student Management System Java Code allows you to keep the student records and
 them when needed. This Project Use MySQL Database for managing all the data that store in
 the database.
 
---> Student Management System Project In Java Features :
+# Student Management System Project In Java Features :
 
   1> Add Student Information – In this feature the user can add the information of the students.
   
